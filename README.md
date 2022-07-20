@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Github]()
--   Live Site URL: [Live Site]()
+-   Solution URL: [Github Repository](https://github.com/Dezynre/manage_landing_web_page)
+-   Live Site URL: [Live Site](https://dezynre.github.io/manage_landing_web_page/)
 
 ### Built with
 
